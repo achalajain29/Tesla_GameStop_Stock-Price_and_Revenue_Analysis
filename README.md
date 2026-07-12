@@ -128,7 +128,7 @@ This project demonstrates the use of Python for financial data extraction, web s
 ```
 ---
 ## Deliverables Included
-* [Yfinance_webscraping_project_info.ipyn](Yfinance_webscraping_project_info.ipyn)
+* [Yfinance_webscraping_project_info.ipynb](Yfinance_webscraping_project_info.ipynb)
 * [Web_scraping_practice_project_yfinance.ipynb](Web_scraping_practice_project_yfinance.ipynb)
 * [tesla_historical_revenue_data.png](tesla_historical_revenue_data.png)
 * [Gamestop_revenue_historical_share.png](Gamestop_revenue_historical_share.png)
