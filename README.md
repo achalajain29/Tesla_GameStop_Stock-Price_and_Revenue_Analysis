@@ -120,7 +120,7 @@ This project demonstrates the use of Python for financial data extraction, web s
 
 ```text
 ├── Yfinance_webscraping_practice_project_info.ipynb
-├── Web_scraping_project_yfinance.ipynb
+├── README.md
 ├── Tesla_Gamestop_Stock_Revenue.md
 ├── images/
 │   ├── tesla_historical_revenue.png
