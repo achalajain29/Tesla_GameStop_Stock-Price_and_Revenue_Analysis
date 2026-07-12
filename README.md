@@ -119,18 +119,18 @@ This project demonstrates the use of Python for financial data extraction, web s
 ## Project Structure
 
 ```text
-├── Yfinance_webscraping_practice_project_info.ipynb
+├── Yfinance_webscraping_project_info.ipynb
 ├── README.md
-├── Tesla_Gamestop_Stock_Revenue.md
+├── Web_scraping_practice_project_yfinance.ipynb
 ├── images/
-│   ├── tesla_historical_revenue.png
+│   ├── tesla_historical_revenue_data.png
 │   └── Gamestop_revenue_historical_share.png
 ```
 ---
 ## Deliverables Included
-* [ Yfinance_webscraping_practice_project_info.ipynb]( Yfinance_webscraping_practice_project_info.ipynb)
-* [Web_scraping_project_yfinance.ipynb](Web_scraping_project_yfinance.ipynb)
-* [tesla_historical_revenue.png](tesla_historical_revenue.png)
+* [Yfinance_webscraping_project_info.ipyn](Yfinance_webscraping_project_info.ipyn)
+* [Web_scraping_practice_project_yfinance.ipynb](Web_scraping_practice_project_yfinance.ipynb)
+* [tesla_historical_revenue_data.png](tesla_historical_revenue_data.png)
 * [Gamestop_revenue_historical_share.png](Gamestop_revenue_historical_share.png)
 ---
 
