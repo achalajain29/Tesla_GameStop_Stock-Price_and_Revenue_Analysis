@@ -137,10 +137,12 @@ This project demonstrates the use of Python for financial data extraction, web s
 ## Author
 
 **Achala Jain**
+---
+**View My ->**
 
-**[View My IBM Data Science Professional Certificate-Python Project For DataScience](https://coursera.org/share/309aa1383e69c8e8f637b61adb7eec1b)**
+**[IBM Data Science Professional Certificate-Python Project For DataScience](https://coursera.org/share/309aa1383e69c8e8f637b61adb7eec1b)**
 
-**[View My Google Data Analytics Professional Certificate](https://coursera.org/share/093874b8b6064ae4741af38e1a44a39f)**
+**[Google Data Analytics Professional Certificate](https://coursera.org/share/093874b8b6064ae4741af38e1a44a39f)**
   
 
 
